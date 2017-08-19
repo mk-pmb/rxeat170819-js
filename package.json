@@ -1,0 +1,28 @@
+{ "name": "rxeat170819",
+  "version": "1.0.0",
+  "description": "If the regexp matches, eat the matched part and optionally digest it.",
+  "keywords": [ "regexp", "string" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/rxeat170819-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/rxeat170819-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/rxeat170819-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "rxeat.js",
+  "scripts": { "test": "nodejs test.usage.js" },
+  "directories": { "test": "test" },
+
+  "dependencies": {},
+  "browser": {},
+  "devDependencies": {},
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
